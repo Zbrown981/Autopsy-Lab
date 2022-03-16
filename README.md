@@ -195,7 +195,7 @@ This subsection will provide an amalgamation of the email and SMS corresponce ev
 ![auto10](https://user-images.githubusercontent.com/89311706/158705589-63220486-215c-4215-b230-586cc2e18e49.png)
 
 ### Appendix B: WiFi and GPS Location Information
-The Map images below Show the WiFi and GPS locations of the iPhone in blue markers and the National Gallery of Art with a red marker.
+The Map images below show the WiFi and GPS locations of the iPhone in blue markers and the National Gallery of Art with a red marker.
 
 ![auto11](https://user-images.githubusercontent.com/89311706/158705951-4381cc3e-d196-4dad-8b30-af7f597f6578.png)
 ![auto13](https://user-images.githubusercontent.com/89311706/158706207-abdac503-ffa3-4fbd-af3c-1465632c2d18.png)
